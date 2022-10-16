@@ -3,6 +3,7 @@ import requests
 import pprint
 import pandas as pd 
 from io import StringIO
+
 chave_api = 'NMKGPCZ0A2H5Z7FC'
 
 #No plano gratuito só conseguimos fazer 5 requisições por minuto. 
